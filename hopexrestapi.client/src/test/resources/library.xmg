@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\mega\mega hopex v1r2 cp13 (763-4307_int)\system\xmlmega.xsl"?>
+<MegaExchange>
+  <Header>
+    <Attribute metaattribute.id="27C729AE3F4E004A" metaattribute.name="exchange_format_version"><Value format="internal">001001</Value><Value format="display">1.1</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0050" metaattribute.name="mega_version"><Value format="internal">30208</Value><Value format="display">MEGA HOPEX V1R3 (750)</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0056" metaattribute.name="metamodel_language"><Value format="internal">1BE01BFA2EC10001</Value><Value format="display">English</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E005C" metaattribute.name="model_default_language"><Value format="internal">1BE01BFA2EC10001</Value><Value format="display">English</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0062" metaattribute.name="default_format"><Value format="internal">10</Value><Value format="display">internal</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0068" metaattribute.name="author"><Value format="internal">03BB0AD5390702F7</Value><Value format="display">User</Value></Attribute>
+    <Attribute metaattribute.id="27C729AF3F4E006E" metaattribute.name="source_database"><Value format="internal">F083020C564CF08A</Value><Value format="display">EA</Value></Attribute>
+    <Attribute metaattribute.id="27C729AF3F4E0074" metaattribute.name="creation_date"><Value format="internal">456c2f1a4</Value><Value format="display">Tue Feb 16 09:53:40 2016&#10;</Value></Attribute>
+  </Header>
+  <Commands>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">03BB0AD5390702F7</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2016/02/16 09:53:21</Value><Value format="display">2016/02/16 09:53:21</Value></Attribute>
+      <Object metaclass.name="Library" metaclass.id="7221815F3D210049" id="F09EF19056C21310"><Extension>
+          <AbstractionLevel>Metamodel</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Converted Name Version" metaattribute.id="21E6222A4C590039">0</Attribute>
+        <Attribute metaattribute.name="TOGAF Architecture Level" metaattribute.id="A685AAA44BD90146"><Value format="internal">L</Value><Value format="display">Logical</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">F09EF19056C21310</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">F09EF19056C21310</Value><Value format="display">Library-1</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045">30208</Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046">30208</Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">03BB0AD5390702F7</Value><Value format="display">User</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">03BB0AD5390702F7</Value><Value format="display">User</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2016/02/16 09:53:20</Value><Value format="display">2/16/2016</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2016/02/16 09:53:21</Value><Value format="display">2/16/2016</Value></Attribute>
+        <Attribute metaattribute.name="LanguageUpdateDate" metaattribute.id="0000000040000064"><Value format="internal">2016/02/16 09:53:21</Value><Value format="display">2/16/2016</Value></Attribute>
+        <Attribute metaattribute.name="Generic Local name" metaattribute.id="000000004000006A"><Value format="internal">Library-1[0000000000000000]</Value><Value format="display">Library-1</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+  </Commands>
+</MegaExchange>
